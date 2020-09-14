@@ -1,0 +1,16 @@
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.IoC.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.IoC.pdb
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.Data.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.Domain.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\SimpleInjector.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\EntityFramework.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.Data.pdb
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.Data.dll.config
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\PSICaixa.Domain.pdb
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\SimpleInjector.xml
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\bin\Debug\EntityFramework.xml
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\obj\Debug\PSICaixa.IoC.csprojAssemblyReference.cache
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\obj\Debug\PSICaixa.IoC.csproj.CoreCompileInputs.cache
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\obj\Debug\PSICaixa.IoC.csproj.CopyComplete
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\obj\Debug\PSICaixa.IoC.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.IoC\obj\Debug\PSICaixa.IoC.pdb

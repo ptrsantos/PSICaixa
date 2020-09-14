@@ -1,0 +1,6 @@
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Domain\bin\Debug\PSICaixa.Domain.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Domain\bin\Debug\PSICaixa.Domain.pdb
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Domain\obj\Debug\PSICaixa.Domain.csprojAssemblyReference.cache
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Domain\obj\Debug\PSICaixa.Domain.csproj.CoreCompileInputs.cache
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Domain\obj\Debug\PSICaixa.Domain.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Domain\obj\Debug\PSICaixa.Domain.pdb

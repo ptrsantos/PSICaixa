@@ -1,0 +1,14 @@
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\PSICaixa.Data.dll.config
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\PSICaixa.Data.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\PSICaixa.Data.pdb
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\EntityFramework.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\PSICaixa.Domain.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\PSICaixa.Domain.pdb
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\EntityFramework.xml
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\obj\Debug\PSICaixa.Data.csprojAssemblyReference.cache
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\obj\Debug\PSICaixa.Data.csproj.CoreCompileInputs.cache
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\obj\Debug\PSICaixa.Data.csproj.CopyComplete
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\obj\Debug\PSICaixa.Data.dll
+E:\ProjetoVisualStudio\PSI\Versao1\PSICaixa\PSICaixa.Data\obj\Debug\PSICaixa.Data.pdb

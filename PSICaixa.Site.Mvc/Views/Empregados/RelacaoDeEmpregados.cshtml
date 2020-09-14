@@ -1,0 +1,59 @@
+﻿
+@{
+    ViewBag.Title = "RelacaoDeEmpregados";
+}
+
+<h2>RelacaoDeEmpregados</h2>
+
+<table id="tabelaEmpregados" class="display">
+    <thead>
+        <tr>
+            <th><Id>Id</Id></th>
+            <th><Id>Matricula</Id></th>
+            <th><Id>Nome</Id></th>
+        </tr>
+    </thead>
+    <tfoot>
+        <tr>
+            <th><Id>Id</Id></th>
+            <th><Id>Matricula</Id></th>
+            <th><Id>Nome</Id></th>
+        </tr>
+    </tfoot>
+</table>
+
+
+<link href="~/Content/DataTables/css/jquery.dataTables.min.css" rel="stylesheet" />
+@section scripts{
+
+    <script>
+
+        $(document).ready(function () {
+
+            $("#tabelaEmpregados").DataTable({
+                "ajax": {
+                    "url": "Empregados/ListarEmpregados",
+                    "type": "POST",
+                    "dataType": "json"
+                },
+                "columns": [
+                    { "data": "Id", "name": "Id" },
+                    { "data": "Matricula", "name": "Matricula" },
+                    { "data": "Nome", "name": "Nome" },
+                ],
+                "searching": "false",
+                "serverSide": "true",
+                "order": [0, "asc"],
+                "processing": "true",
+                "language": {
+                    "processing": "processano... por favor aguarde"
+                }
+            })
+
+        }
+
+    </script>
+
+
+}
+
