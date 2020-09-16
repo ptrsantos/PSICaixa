@@ -3,9 +3,53 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1209
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSICaixa.WebApi", "PSICaixa.WebApi\PSICaixa.WebApi.csproj", "{ABE2F6C7-4FA6-49D4-8578-1BA08E4D853D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Api", "1 - Api", "{9403D648-5C7E-468B-BC97-02A48B8E7949}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Domain", "2 - Domain", "{44E1D038-F860-417F-BB9F-926664D3489B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Data", "3 - Data", "{E51C211F-5EB0-4D88-89BC-BA71DAF80935}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4 - IoC", "4 - IoC", "{0F95C75A-2599-42C3-AB73-243FE9452636}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSICaixa.Domain", "PSICaixa.Domain\PSICaixa.Domain.csproj", "{980DBFE2-E1A4-4390-AB79-452FBE70A085}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSICaixa.Data", "PSICaixa.Data\PSICaixa.Data.csproj", "{BAA888D2-8C7C-47EF-A8DF-1204DCB7E72B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSICaixa.IoC", "PSICaixa.IoC\PSICaixa.IoC.csproj", "{B3BF1344-C2B5-488A-AEFB-1E1D4254B715}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABE2F6C7-4FA6-49D4-8578-1BA08E4D853D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABE2F6C7-4FA6-49D4-8578-1BA08E4D853D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABE2F6C7-4FA6-49D4-8578-1BA08E4D853D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABE2F6C7-4FA6-49D4-8578-1BA08E4D853D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{980DBFE2-E1A4-4390-AB79-452FBE70A085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{980DBFE2-E1A4-4390-AB79-452FBE70A085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{980DBFE2-E1A4-4390-AB79-452FBE70A085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{980DBFE2-E1A4-4390-AB79-452FBE70A085}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA888D2-8C7C-47EF-A8DF-1204DCB7E72B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA888D2-8C7C-47EF-A8DF-1204DCB7E72B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA888D2-8C7C-47EF-A8DF-1204DCB7E72B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA888D2-8C7C-47EF-A8DF-1204DCB7E72B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3BF1344-C2B5-488A-AEFB-1E1D4254B715}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3BF1344-C2B5-488A-AEFB-1E1D4254B715}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3BF1344-C2B5-488A-AEFB-1E1D4254B715}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3BF1344-C2B5-488A-AEFB-1E1D4254B715}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{ABE2F6C7-4FA6-49D4-8578-1BA08E4D853D} = {9403D648-5C7E-468B-BC97-02A48B8E7949}
+		{980DBFE2-E1A4-4390-AB79-452FBE70A085} = {44E1D038-F860-417F-BB9F-926664D3489B}
+		{BAA888D2-8C7C-47EF-A8DF-1204DCB7E72B} = {E51C211F-5EB0-4D88-89BC-BA71DAF80935}
+		{B3BF1344-C2B5-488A-AEFB-1E1D4254B715} = {0F95C75A-2599-42C3-AB73-243FE9452636}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A3530F6C-595D-4AFA-9434-89F7E21C291E}
