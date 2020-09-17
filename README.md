@@ -1,2 +1,1 @@
-# PSICaixa
-leitura de um arquivo de texto para alimentar um banco de dados e retornar valores para uma tabela
+A aplicação apresentou problema no contexto do repositório do banco de dados no ambiente da empresa. Problema que não ocorreu no decorrer do desenvolvimento do sistema e apareceu no momento da primeira execução do aplicativo. O problema foi corrigido deletando o banco de dados mdf, criado durante a primeira execução e que fica na pasta App_Data, também foi necessário retirar o termo Initial Catalog da string de conexão.
